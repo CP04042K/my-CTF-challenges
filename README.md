@@ -1,5 +1,5 @@
 # my-CTF-challenges
-Some CTF challenge that i made
+Some CTF challenges that i made
 
 ## freshman 2023
 
